@@ -18,8 +18,8 @@ versioncheck-bg.addons.mozilla.org:HSTS	0	17994	1554727545221,1,0,2
 syndication.twitter.com:HSTS	0	17993	2185789400175,1,0,2
 id.heroku.com:HSTS	0	17995	1586345089443,1,0,2
 avatars1.githubusercontent.com:HSTS	1	17995	1586372484268,1,0,2
-api.github.com:HSTS	1	17995	1586351400906,1,1,2
-github.com:HSTS	1	17995	1586351400145,1,1,2
+api.github.com:HSTS	1	17995	1586351575481,1,1,2
+github.com:HSTS	1	17995	1586351575198,1,1,2
 vscode-update.azurewebsites.net:HSTS	0	17995	1586346709368,1,0,2
 codeload.github.com:HSTS	0	17995	1586349367851,1,0,2
 avatars.githubusercontent.com:HSTS	0	17993	1586208479327,1,0,2
@@ -31,7 +31,7 @@ www.google.ca:HSTS	1	17995	1586186690845,1,0,2
 fonts.googleapis.com:HSTS	0	17993	1586186693141,1,0,2
 blocklists.settings.services.mozilla.com:HSTS	1	17995	1586350908040,1,0,2
 img-getpocket.cdn.mozilla.net:HSTS	2	17995	1617887484238,1,1,2
-collector.githubapp.com:HSTS	1	17995	1586351400829,1,0,2
+collector.githubapp.com:HSTS	1	17995	1586351586980,1,0,2
 www.google.com^firstPartyDomain=google.search.suggestions.mozilla:HSTS	2	17995	1586344925814,1,0,2
 avatars3.githubusercontent.com:HSTS	1	17995	1586367270949,1,0,2
 shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	2	17995	1586348492793,1,1,2
