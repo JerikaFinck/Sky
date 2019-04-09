@@ -1,0 +1,36 @@
+[CLIENT] 0x4000202
+  [CLIENT_LEADER] 0x4000001
+  [RES_NAME] Prompt
+  [RES_CLASS] Firefox
+  [WM_NAME] Quit and close tabs?
+  [GEOMETRY] (894,456,447,130)
+  [GEOMETRY-MAXIMIZED] (894,456,447,130)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x40001c7
+  [CLIENT_ID] 2181ebdda-fc96-42cd-a4cc-41965dd92aef
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] confirmEx
+  [RES_NAME] Prompt
+  [RES_CLASS] Firefox
+  [WM_NAME] Quit and close tabs?
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (894,456,447,130)
+  [GEOMETRY-MAXIMIZED] (894,456,447,130)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x4000010
+  [CLIENT_ID] 2181ebdda-fc96-42cd-a4cc-41965dd92aef
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] JerikaFinck/my-first - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (478,175,1280,693)
+  [GEOMETRY-MAXIMIZED] (478,175,1280,693)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
